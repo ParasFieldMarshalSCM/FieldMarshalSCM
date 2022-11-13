@@ -1106,7 +1106,7 @@ preview-2
 }
 
 .our-skill-area {
-  background: rgba(248, 248, 248, 0.8) url("https://github.com/ParasFieldMarshalSCM/media/blob/main/om.jpg?raw=true") no-repeat fixed center top/cover;
+  background: rgba(248, 248, 248, 0.8) url("../css/om.jpg") no-repeat fixed center top/cover;
 }
 
 .test-overly {
