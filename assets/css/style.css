@@ -13,6 +13,15 @@ html, body {
 .floatright {
   float: right;
 }
+.ty{
+text-color: #ffff00;
+}
+
+.mrg-tp
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 
 .alignleft {
   float: left;
